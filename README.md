@@ -2,10 +2,10 @@
 
 
 ## 公告:物品001-005滑雪五件套优先打包出售 价格：50欧
-## 公告:物品持续更新中，最后更新日期31/12/2022
+## 公告:物品持续更新中，最后更新日期1/1/2023
 
 # 物品001
-迪卡侬滑雪手套 价格：7欧
+迪卡侬滑雪手套 价格：6欧
 
 尺寸17.8-18.5cm
 
@@ -13,7 +13,7 @@
 
 
 # 物品002
-迪卡侬滑雪护目镜 价格：7欧
+迪卡侬滑雪护目镜 价格：6欧
 
 
 <img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5870592279675255193_y.jpg" width="300px">
@@ -45,7 +45,7 @@
 
 
 # 物品006
-NIKI摇粒绒夹克白 价格：20欧
+NIKI摇粒绒夹克白 价格：15欧
 
 M均码女
 
@@ -54,7 +54,7 @@ M均码女
 <img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5870592279675255197_y.jpg" width="300px">
 
 # 物品007
-宜家电池充电器+4*可充电电池 价格：7欧
+宜家电池充电器+4*可充电电池 价格：6欧
 
 AAA号 日本制造 无线鼠标键盘的好伴侣！
 
@@ -74,7 +74,7 @@ AAA号 日本制造 无线鼠标键盘的好伴侣！
 
 
 # 物品009
-艺术品沙漏原价19欧 价格：8欧
+艺术品沙漏原价19欧 价格：7欧
 
 很小，也很有品位
 
@@ -122,7 +122,7 @@ KLORANE全新洗发水 价格：5欧
 
 # 物品014
 
-木制收纳盒带化妆镜 价格：10欧
+木制收纳盒带化妆镜 价格：8欧
 
 质量很好
 
@@ -180,29 +180,54 @@ KLORANE全新洗发水 价格：5欧
 <img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5870592279675255217_y.jpg" width="300px">
 
 
-# 物品019
+# ***~~物品019~~***
 宜家金属隔板（大） 价格：单个2欧，两个4欧
 
 
 
-<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5872844079488940843_y.jpg" width="300px">
-<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5872844079488940842_y.jpg" width="300px">
 
 
 
-# 物品020
+
+# ***~~物品020~~***
 宜家金属隔板（小） 价格：2欧
 
 
 
-<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5872844079488940841_y.jpg" width="300px">
 
 
 
 # 物品021
-宜家木制储物架 价格：2欧
+宜家塑料储物箱*2  价格：一个2欧 两个4欧
+
+901.103.01 (SAMLA) 
 
 
 
-<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5872844079488940845_y.jpg" width="300px">
-<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5872844079488940846_y.jpg" width="300px">
+<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5877499909937150763_y.jpg" width="300px">
+<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5877499909937150764_y.jpg" width="300px">
+
+
+
+# 物品022
+九阳多功能豆浆机  价格：20欧
+
+
+
+
+<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5877499909937150767_y.jpg" width="300px">
+<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5877499909937150768_y.jpg" width="300px">
+
+
+# 物品023
+榨汁机  价格：15欧
+
+
+
+
+<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5877499909937150765_y.jpg" width="300px">
+<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5877499909937150766_y.jpg" width="300px">
+
+
+
+
