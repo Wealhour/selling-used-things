@@ -145,14 +145,13 @@ KLORANE全新洗发水 价格：5欧
 
 
 
-# 物品016
+# ***~~物品016~~***
 
 美甲灯+21支二手指甲油打包出 价格：10欧
 
 
 
-<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5870592279675255214_y.jpg" width="300px">
-<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5870592279675255213_y.jpg" width="300px">
+
 
 
 
@@ -171,13 +170,13 @@ KLORANE全新洗发水 价格：5欧
 
 
 
-# 物品018
+# ***~~物品018~~***
 
 化妆镜usb有灯光 价格：5欧
 
 
 
-<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5870592279675255217_y.jpg" width="300px">
+
 
 
 # ***~~物品019~~***
