@@ -1,8 +1,8 @@
 # ***:blush:Porta Furba地铁站步行5分钟自提，加好友备注物品编号:blush:***
 
 
-## 公告:物品001-005滑雪五件套优先打包出售 价格：50欧
-## 公告:物品持续更新中，最后更新日期02/01/2023
+## 公告:加好友请备注物品编号
+## 公告:物品持续更新中，最后更新日期05/01/2023
 
 # 物品001
 迪卡侬滑雪手套 价格：6欧
@@ -12,11 +12,11 @@
 <img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5870592279675255191_y.jpg" width="300px">
 
 
-# 物品002
+# ***~~物品002~~***
 迪卡侬滑雪护目镜 价格：6欧
 
 
-<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5870592279675255193_y.jpg" width="300px">
+
 
 # 物品003
 迪卡侬保暖内衣 价格：10欧
@@ -229,4 +229,10 @@ KLORANE全新洗发水 价格：5欧
 
 
 
+# 物品024
+muji储物盒小size*5个   大size*2个  价格：每个2欧 打包6欧
 
+
+
+
+<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5886574840826150178_y.jpg" width="300px">
