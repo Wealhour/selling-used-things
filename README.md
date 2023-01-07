@@ -2,7 +2,7 @@
 
 
 ## 公告:加好友请备注物品编号
-## 公告:物品持续更新中，最后更新日期05/01/2023
+## 公告:物品持续更新中，最后更新日期07/01/2023
 
 # 物品001
 迪卡侬滑雪手套 价格：6欧
@@ -155,7 +155,7 @@ KLORANE全新洗发水 价格：5欧
 
 
 
-# 物品017
+# ***~~物品017~~***
 
 衣服熨烫器意大利牌子 价格：20欧
 
@@ -164,9 +164,6 @@ KLORANE全新洗发水 价格：5欧
 
 
 
-<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/amzon.png" width="300px">
-<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5870592279675255215_y.jpg" width="300px">
-<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5870592279675255216_y.jpg" width="300px">
 
 
 
