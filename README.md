@@ -2,7 +2,7 @@
 
 
 ## 公告:加好友请备注物品编号
-## 公告:物品持续更新中，最后更新日期07/01/2023
+## 公告:物品持续更新中，最后更新日期11/01/2023
 
 # 物品001
 迪卡侬滑雪手套 价格：6欧
@@ -62,15 +62,11 @@ AAA号 日本制造 无线鼠标键盘的好伴侣！
 <img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5870592279675255199_y.jpg" width="300px">
 <img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5870592279675255200_y.jpg" width="300px">
 
-# 物品008
+# ***~~物品008~~***
 
 宜家椅子形状挂钩 价格：免费
 
-送螺丝
 
-
-<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5870592279675255201_y.jpg" width="300px">
-<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5870592279675255202_y.jpg" width="300px">
 
 
 # ***~~物品009~~***
@@ -193,7 +189,7 @@ KLORANE全新洗发水 价格：5欧
 
 
 
-# ***~~物品021~~***
+# 物品021
 宜家塑料储物箱*2  价格：一个2欧 两个4欧
 
 901.103.01 (SAMLA) 
@@ -205,14 +201,12 @@ KLORANE全新洗发水 价格：5欧
 
 
 
-# 物品022
+# ***~~物品022~~***
 九阳多功能豆浆机  价格：20欧
 
 
 
 
-<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5877499909937150767_y.jpg" width="300px">
-<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5877499909937150768_y.jpg" width="300px">
 
 
 # 物品023
@@ -232,4 +226,3 @@ muji储物盒小size*5个   大size*2个  价格：每个2欧 打包12欧
 
 
 
-<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5886574840826150178_y.jpg" width="300px">
