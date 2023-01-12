@@ -72,10 +72,7 @@ AAA号 日本制造 无线鼠标键盘的好伴侣！
 # ***~~物品009~~***
 艺术品沙漏原价19欧 价格：7欧
 
-很小，也很有品位
 
-
-<img src="https://github.com/Wealhour/selling-used-things/blob/main/photos/photo_5870592279675255203_y.jpg" width="300px">
 
 # 物品010
 Hollister牛仔花纹夹克女 价格：10欧
